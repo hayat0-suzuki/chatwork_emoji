@@ -1,5 +1,0 @@
-//チャットワークからpreview idを取り出しブックマークレット化
-http://3waygood.hatenablog.jp/entry/2017/12/16/011602
-
-//ブックマークレット作成方法とコンパイル
-https://qiita.com/kanaxx/items/63debe502aacd73c3cb8
